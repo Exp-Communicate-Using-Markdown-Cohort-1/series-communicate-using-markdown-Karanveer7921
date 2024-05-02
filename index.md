@@ -18,3 +18,13 @@ public class MarkDown {
   }
 }
 ```
+
+### Tasks List
+Every item in tasks list should start with hyphen (-) sign, followed by X (checked) or Empty Space (unchecked) enclosed within square brackets. After that we write the content of that list item. Note : All these three elements in syntax of tasks list should be seperated by a space.
+
+- [X] Step 1: Add headers
+- [X] Step 2: Add an image
+- [X] Step 3: Add a code example
+- [X] Step 4: Make a task list
+- [ ] Step 5: Merge your pull request
+- [ ] Finish
